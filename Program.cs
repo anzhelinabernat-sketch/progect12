@@ -10,7 +10,7 @@ namespace progect2
     {
         static void Main()
         {
-            Console.WriteLine("hgkjastian");
+            Console.WriteLine("12");
         }
     }
 }
